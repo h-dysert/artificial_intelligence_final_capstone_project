@@ -1,0 +1,57 @@
+streamlit
+pandas
+numpy
+scipy
+
+Step-by-Step Installation Guide
+
+Step 1: Verify Python is Installed
+
+powershell-
+python --version
+
+You should see Python 3.10 or later. If not, download from [python.org](https://www.python.org/downloads/).
+
+Step 2: Verify pip is Available
+
+powershell-
+pip --version
+
+You should see pip is installed. If not, run:
+
+powershell-
+python -m ensurepip --upgrade
+
+
+Step 3: Navigate to Your Project Directory
+
+powershell-
+cd c:\VSCodeProjects\capstone-project-matcher
+
+
+Step 4: Install Required Packages
+
+powershell-
+pip install -r 
+
+- streamlit — Framework for building interactive web apps
+- pandas — Data manipulation and analysis
+- numpy — Numerical computing
+- scipy — Scientific computing (includes optimization tools)
+
+Step 5: Verify Installation
+
+Check all packages installed correctly:
+
+powershell-
+pip list
+
+You should see "streamlit", "pandas", "numpy", and "scipy" in the list.
+
+Step 6: Run Your App
+Start the Streamlit application:
+
+powershell-
+streamlit run app/main.py
+
+The app will open in your browser at `http://localhost:8501`. for now
