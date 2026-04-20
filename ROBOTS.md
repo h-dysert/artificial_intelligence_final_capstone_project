@@ -8,7 +8,7 @@ This project matches students to capstone projects using ranked preferences and 
 - app/parser.py reads and validates uploaded CSV files
 - app/scoring.py converts rankings into preference scores
 - app/matching.py computes optimized project assignments
-- tests/ contains automated tests for validation, scoring, and matching
+- tests/contains automated tests for validation, scoring, and matching
 
 ## AI Agent Rules
 - Keep UI logic separate from matching logic
