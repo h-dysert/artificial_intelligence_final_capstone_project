@@ -1,0 +1,1 @@
+# Converts rankings into numeric scores
