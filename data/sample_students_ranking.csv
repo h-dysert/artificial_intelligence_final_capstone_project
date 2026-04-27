@@ -1,0 +1,31 @@
+student_id,student_name,choice_1,choice_2,choice_3,choice_4,choice_5
+1,Alex Johnson,AI Tutor,Schedule Optimizer,Note Scanner,Capstone Tracker,Lab Assistant Tool
+2,Bri Thomas,Schedule Optimizer,AI Tutor,Capstone Tracker,Lab Assistant Tool,Note Scanner
+3,Chris Lee,AI Tutor,Note Scanner,Schedule Optimizer,Lab Assistant Tool,Capstone Tracker
+4,Dani Smith,Campus Event Recommender,Capstone Tracker,Career Prep Chatbot,AI Tutor,Accessibility Map
+5,Eli Carter,Note Scanner,AI Tutor,Schedule Optimizer,Career Prep Chatbot,Lab Assistant Tool
+6,Fatima Khan,Accessibility Map,Campus Event Recommender,Career Prep Chatbot,Capstone Tracker,Note Scanner
+7,Grace Wilson,Career Prep Chatbot,AI Tutor,Campus Event Recommender,Schedule Optimizer,Capstone Tracker
+8,Henry Brown,Schedule Optimizer,Capstone Tracker,AI Tutor,Accessibility Map,Lab Assistant Tool
+9,Isabella Garcia,AI Tutor,Career Prep Chatbot,Note Scanner,Campus Event Recommender,Schedule Optimizer
+10,Jay Patel,Lab Assistant Tool,Schedule Optimizer,Capstone Tracker,Note Scanner,AI Tutor
+11,Kai Nguyen,Capstone Tracker,Schedule Optimizer,Campus Event Recommender,Career Prep Chatbot,Accessibility Map
+12,Lena Davis,AI Tutor,Note Scanner,Career Prep Chatbot,Accessibility Map,Campus Event Recommender
+13,Marcus Hill,Campus Event Recommender,Accessibility Map,Capstone Tracker,Lab Assistant Tool,Schedule Optimizer
+14,Nia Robinson,Career Prep Chatbot,Campus Event Recommender,AI Tutor,Note Scanner,Capstone Tracker
+15,Owen Clark,Note Scanner,Lab Assistant Tool,Schedule Optimizer,AI Tutor,Capstone Tracker
+16,Priya Shah,Accessibility Map,Career Prep Chatbot,Campus Event Recommender,AI Tutor,Capstone Tracker
+17,Quinn Adams,Capstone Tracker,AI Tutor,Schedule Optimizer,Lab Assistant Tool,Note Scanner
+18,Riley Moore,Schedule Optimizer,AI Tutor,Accessibility Map,Capstone Tracker,Career Prep Chatbot
+19,Sofia Martinez,AI Tutor,Capstone Tracker,Campus Event Recommender,Note Scanner,Career Prep Chatbot
+20,Theo Anderson,Lab Assistant Tool,Note Scanner,Schedule Optimizer,Accessibility Map,Capstone Tracker
+21,Uma Singh,Career Prep Chatbot,Accessibility Map,Campus Event Recommender,AI Tutor,Schedule Optimizer
+22,Victor Chen,Capstone Tracker,Schedule Optimizer,Lab Assistant Tool,AI Tutor,Note Scanner
+23,Willow Taylor,Campus Event Recommender,Career Prep Chatbot,Accessibility Map,Capstone Tracker,AI Tutor
+24,Xavier Brooks,Note Scanner,AI Tutor,Lab Assistant Tool,Schedule Optimizer,Career Prep Chatbot
+25,Yara Ahmed,Accessibility Map,AI Tutor,Career Prep Chatbot,Campus Event Recommender,Capstone Tracker
+26,Zoe Miller,Schedule Optimizer,Capstone Tracker,AI Tutor,Note Scanner,Lab Assistant Tool
+27,Amir Walker,Lab Assistant Tool,Capstone Tracker,Schedule Optimizer,Campus Event Recommender,Accessibility Map
+28,Bella Green,Career Prep Chatbot,Campus Event Recommender,Note Scanner,AI Tutor,Schedule Optimizer
+29,Caleb Young,Capstone Tracker,Accessibility Map,Schedule Optimizer,Career Prep Chatbot,Lab Assistant Tool
+30,Maya Scott,AI Tutor,Schedule Optimizer,Campus Event Recommender,Accessibility Map,Note Scanner
