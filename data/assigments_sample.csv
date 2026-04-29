@@ -1,0 +1,31 @@
+student_id,student_name,assigned_project,assigned_choice_rank,preference_score
+1,Alex Johnson,AI Tutor,1,5
+3,Chris Lee,AI Tutor,1,5
+9,Isabella Garcia,AI Tutor,1,5
+12,Lena Davis,AI Tutor,1,5
+30,Maya Scott,AI Tutor,1,5
+2,Bri Thomas,Schedule Optimizer,1,5
+8,Henry Brown,Schedule Optimizer,1,5
+18,Riley Moore,Schedule Optimizer,1,5
+26,Zoe Miller,Schedule Optimizer,1,5
+5,Eli Carter,Note Scanner,1,5
+15,Owen Clark,Note Scanner,1,5
+24,Xavier Brooks,Note Scanner,1,5
+17,Quinn Adams,Capstone Tracker,1,5
+11,Kai Nguyen,Capstone Tracker,1,5
+22,Victor Chen,Capstone Tracker,1,5
+29,Caleb Young,Capstone Tracker,1,5
+19,Sofia Martinez,Capstone Tracker,2,4
+10,Jay Patel,Lab Assistant Tool,1,5
+20,Theo Anderson,Lab Assistant Tool,1,5
+27,Amir Walker,Lab Assistant Tool,1,5
+4,Dani Smith,Campus Event Recommender,1,5
+13,Marcus Hill,Campus Event Recommender,1,5
+23,Willow Taylor,Campus Event Recommender,1,5
+28,Bella Green,Career Prep Chatbot,1,5
+7,Grace Wilson,Career Prep Chatbot,1,5
+14,Nia Robinson,Career Prep Chatbot,1,5
+21,Uma Singh,Career Prep Chatbot,1,5
+6,Fatima Khan,Accessibility Map,1,5
+16,Priya Shah,Accessibility Map,1,5
+25,Yara Ahmed,Accessibility Map,1,5 
