@@ -26,6 +26,7 @@ It then:
 - assigns students to projects using a matching algorithm
 - ensures project capacities are not exceeded
 - returns a recommended assignment for review
+- Shows the weighting of each group
 
 ## Input Files
 
