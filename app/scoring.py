@@ -2,7 +2,7 @@
 
 import numpy as np
 import pandas as pd
-from parser import get_choice_columns
+from app.parser import get_choice_columns
 
 
 def build_score_matrix(student_df, project_df):

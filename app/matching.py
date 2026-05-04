@@ -6,8 +6,8 @@ import pandas as pd
 import numpy as np
 from scipy.optimize import milp, LinearConstraint, Bounds
 
-from scoring import build_score_matrix
-from parser import get_choice_columns
+from app.scoring import build_score_matrix
+from app.parser import get_choice_columns
 
 
 def check_matching_feasibility(student_df, project_df):
